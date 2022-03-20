@@ -6,7 +6,13 @@ color: #fff
 
 ---
 
-# Solving the hardest problem in programming
+# Nicolai Gjellestad
+
+### Developer at Nicode and Ilder
+![Ilder width:300px height:auto](./assets/ilder.svg)
+
+---
+## Solving the hardest problem in programming
 ### Naming things :tada:
 
 ---
