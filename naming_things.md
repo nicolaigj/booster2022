@@ -68,6 +68,24 @@ I like to think about code in the same way I think
 - Functions
 - Loops
 - Data structures
+
+---
+![bg](#fff)
+
+✅
+```go
+package users
+
+func New() User {
+}
+```
+❌
+```go
+package utils
+
+func New() Padder {
+}
+```
 ---
 # Verbosity
 - r
